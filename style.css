@@ -6,3 +6,12 @@ html {
 body {
   background-color: #9c3932;
 }
+
+h2 {
+  margin: 0;
+}
+
+.wrapper {
+margin: auto;
+position: relative;
+font-family: "verdana";
